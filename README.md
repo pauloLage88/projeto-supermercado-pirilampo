@@ -1,4 +1,4 @@
-# Projeto 02 - Lessons Learned
+# Projeto 02 - Supermercado Pirilampo
 
 ## Módulo 01 - Fundamentos
 
